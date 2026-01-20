@@ -1,9 +1,26 @@
-selenium 
-pandas 
-numpy 
-bs4
-lxml --upgrade --force-reinstall
-fuzzywuzzy
-matplotlib
-seaborn
-setuptools --upgrade --force-reinstall
+# Core Scraping & Automation
+selenium==4.40.0
+seleniumbase==4.46.0
+undetected-chromedriver==3.5.5
+beautifulsoup4==4.14.3
+lxml==6.0.2
+requests==2.32.5
+
+# Data Processing
+pandas==2.3.3
+numpy==2.4.1
+
+# Analysis & EDA
+matplotlib==3.10.8
+seaborn==0.13.2
+pygwalker==0.5.0.0
+scipy==1.17.0
+
+# Jupyter Environment
+ipykernel==7.1.0
+ipython==9.9.0
+
+# Helpers
+setuptools==80.9.0
+python-dateutil==2.9.0.post0
+tqdm==4.67.1
