@@ -1,0 +1,9 @@
+selenium 
+pandas 
+numpy 
+bs4
+lxml --upgrade --force-reinstall
+fuzzywuzzy
+matplotlib
+seaborn
+setuptools --upgrade --force-reinstall
