@@ -2,6 +2,7 @@
     "standard_stats": {
         "endpoint_suffix": "/stats/",
         "metrics": [
+            "ranker",
             "player",
             "nationality",
             "position",
@@ -14,6 +15,7 @@
             "minutes_90s",
             "goals",
             "assists",
+            "goals_assists",
             "goals_pens",
             "pens_made",
             "pens_att",
@@ -25,7 +27,17 @@
             "npxg_xg_assist",
             "progressive_carries",
             "progressive_passes",
-            "progressive_passes_received"
+            "progressive_passes_received",
+            "goals_per90",
+            "assists_per90",
+            "goals_assists_per90",
+            "goals_pens_per90",
+            "goals_assists_pens_per90",
+            "xg_per90",
+            "xg_assist_per90",
+            "xg_xg_assist_per90",
+            "npxg_per90",
+            "npxg_xg_assist_per90"
         ]
     },
     "shooting": {
