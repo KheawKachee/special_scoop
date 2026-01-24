@@ -2,7 +2,6 @@
     {
         "player":"Adri\u00e1n",
         "nationality":"es ESP",
-        "position":"GK",
         "team":"Liverpool",
         "age":33,
         "birth_year":1987,
@@ -24,12 +23,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"R\u00fanar Alex R\u00fanarsson",
         "nationality":"is ISL",
-        "position":"GK",
         "team":"Arsenal",
         "age":25,
         "birth_year":1995,
@@ -51,12 +53,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Alisson",
         "nationality":"br BRA",
-        "position":"GK",
         "team":"Liverpool",
         "age":27,
         "birth_year":1992,
@@ -78,12 +83,15 @@
         "gk_pens_allowed":4.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":3.0,
-        "gk_pens_save_pct":20.0
+        "gk_pens_save_pct":20.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Alphonse Areola",
         "nationality":"fr FRA",
-        "position":"GK",
         "team":"Fulham",
         "age":27,
         "birth_year":1993,
@@ -105,12 +113,15 @@
         "gk_pens_allowed":6.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Kepa Arrizabalaga",
         "nationality":"es ESP",
-        "position":"GK",
         "team":"Chelsea",
         "age":25,
         "birth_year":1994,
@@ -132,12 +143,15 @@
         "gk_pens_allowed":1.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Jack Butland",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Crystal Palace",
         "age":27,
         "birth_year":1993,
@@ -159,12 +173,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"David Button",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"West Bromwich Albion",
         "age":31,
         "birth_year":1989,
@@ -186,12 +203,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Willy Caballero",
         "nationality":"ar ARG",
-        "position":"GK",
         "team":"Chelsea",
         "age":38,
         "birth_year":1981,
@@ -213,12 +233,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Scott Carson",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Manchester City",
         "age":34,
         "birth_year":1985,
@@ -240,12 +263,15 @@
         "gk_pens_allowed":1.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":50.0
+        "gk_pens_save_pct":50.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Kiko Casilla",
         "nationality":"es ESP",
-        "position":"GK",
         "team":"Leeds United",
         "age":33,
         "birth_year":1986,
@@ -267,12 +293,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Karl Darlow",
         "nationality":"wls WAL",
-        "position":"GK",
         "team":"Newcastle United",
         "age":29,
         "birth_year":1990,
@@ -294,12 +323,15 @@
         "gk_pens_allowed":3.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":25.0
+        "gk_pens_save_pct":25.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Martin D\u00fabravka",
         "nationality":"sk SVK",
-        "position":"GK",
         "team":"Newcastle United",
         "age":31,
         "birth_year":1989,
@@ -321,12 +353,15 @@
         "gk_pens_allowed":1.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Ederson",
         "nationality":"br BRA",
-        "position":"GK",
         "team":"Manchester City",
         "age":26,
         "birth_year":1993,
@@ -348,12 +383,15 @@
         "gk_pens_allowed":7.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":12.5
+        "gk_pens_save_pct":12.5,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"\u0141ukasz Fabia\u0144ski",
         "nationality":"pl POL",
-        "position":"GK",
         "team":"West Ham United",
         "age":35,
         "birth_year":1985,
@@ -375,12 +413,15 @@
         "gk_pens_allowed":3.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":1.0,
-        "gk_pens_save_pct":25.0
+        "gk_pens_save_pct":25.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Fraser Forster",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Southampton",
         "age":32,
         "birth_year":1988,
@@ -402,12 +443,15 @@
         "gk_pens_allowed":2.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":33.3
+        "gk_pens_save_pct":33.3,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"David de Gea",
         "nationality":"es ESP",
-        "position":"GK",
         "team":"Manchester Utd",
         "age":29,
         "birth_year":1990,
@@ -429,12 +473,15 @@
         "gk_pens_allowed":4.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Vicente Guaita",
         "nationality":"es ESP",
-        "position":"GK",
         "team":"Crystal Palace",
         "age":33,
         "birth_year":1987,
@@ -456,12 +503,15 @@
         "gk_pens_allowed":3.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":25.0
+        "gk_pens_save_pct":25.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Dean Henderson",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Manchester Utd",
         "age":23,
         "birth_year":1997,
@@ -483,12 +533,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Sam Johnstone",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"West Bromwich Albion",
         "age":27,
         "birth_year":1993,
@@ -510,12 +563,15 @@
         "gk_pens_allowed":7.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":3.0,
-        "gk_pens_save_pct":12.5
+        "gk_pens_save_pct":12.5,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Caoimh\u00edn Kelleher",
         "nationality":"ie IRL",
-        "position":"GK",
         "team":"Liverpool",
         "age":21,
         "birth_year":1998,
@@ -537,12 +593,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Bernd Leno",
         "nationality":"de GER",
-        "position":"GK",
         "team":"Arsenal",
         "age":28,
         "birth_year":1992,
@@ -564,12 +623,15 @@
         "gk_pens_allowed":1.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":50.0
+        "gk_pens_save_pct":50.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Hugo Lloris",
         "nationality":"fr FRA",
-        "position":"GK",
         "team":"Tottenham Hotspur",
         "age":33,
         "birth_year":1986,
@@ -591,12 +653,15 @@
         "gk_pens_allowed":10.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Emiliano Mart\u00ednez",
         "nationality":"ar ARG",
-        "position":"GK",
         "team":"Aston Villa",
         "age":27,
         "birth_year":1992,
@@ -618,12 +683,15 @@
         "gk_pens_allowed":5.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":16.7
+        "gk_pens_save_pct":16.7,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Alex McCarthy",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Southampton",
         "age":30,
         "birth_year":1989,
@@ -645,12 +713,15 @@
         "gk_pens_allowed":6.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Edouard Mendy",
         "nationality":"sn SEN",
-        "position":"GK",
         "team":"Chelsea",
         "age":28,
         "birth_year":1992,
@@ -672,12 +743,15 @@
         "gk_pens_allowed":2.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":33.3
+        "gk_pens_save_pct":33.3,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Illan Meslier",
         "nationality":"fr FRA",
-        "position":"GK",
         "team":"Leeds United",
         "age":20,
         "birth_year":2000,
@@ -699,12 +773,15 @@
         "gk_pens_allowed":8.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":11.1
+        "gk_pens_save_pct":11.1,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Will Norris",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Burnley",
         "age":26,
         "birth_year":1993,
@@ -726,12 +803,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Robin Olsen",
         "nationality":"se SWE",
-        "position":"GK",
         "team":"Everton",
         "age":30,
         "birth_year":1990,
@@ -753,12 +833,15 @@
         "gk_pens_allowed":1.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Rui Patr\u00edcio",
         "nationality":"pt POR",
-        "position":"GK",
         "team":"Wolves",
         "age":32,
         "birth_year":1988,
@@ -780,12 +863,15 @@
         "gk_pens_allowed":7.0,
         "gk_pens_saved":1.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":12.5
+        "gk_pens_save_pct":12.5,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Bailey Peacock-Farrell",
         "nationality":"nir NIR",
-        "position":"GK",
         "team":"Burnley",
         "age":23,
         "birth_year":1996,
@@ -807,12 +893,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Jordan Pickford",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Everton",
         "age":26,
         "birth_year":1994,
@@ -834,12 +923,15 @@
         "gk_pens_allowed":2.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":1.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Nick Pope",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Burnley",
         "age":28,
         "birth_year":1992,
@@ -861,12 +953,15 @@
         "gk_pens_allowed":3.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Aaron Ramsdale",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Sheffield United",
         "age":22,
         "birth_year":1998,
@@ -888,12 +983,15 @@
         "gk_pens_allowed":3.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":1.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Darren Randolph",
         "nationality":"ie IRL",
-        "position":"GK",
         "team":"West Ham United",
         "age":33,
         "birth_year":1987,
@@ -915,12 +1013,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Marek Rod\u00e1k",
         "nationality":"sk SVK",
-        "position":"GK",
         "team":"Fulham",
         "age":23,
         "birth_year":1996,
@@ -942,12 +1043,15 @@
         "gk_pens_allowed":1.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"John Ruddy",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Wolves",
         "age":33,
         "birth_year":1986,
@@ -969,12 +1073,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Mathew Ryan",
         "nationality":"au AUS",
-        "position":"GK",
         "team":"Brighton",
         "age":28,
         "birth_year":1992,
@@ -996,12 +1103,15 @@
         "gk_pens_allowed":4.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Mathew Ryan",
         "nationality":"au AUS",
-        "position":"GK",
         "team":"Arsenal",
         "age":28,
         "birth_year":1992,
@@ -1023,12 +1133,15 @@
         "gk_pens_allowed":1.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Robert S\u00e1nchez",
         "nationality":"es ESP",
-        "position":"GK",
         "team":"Brighton",
         "age":22,
         "birth_year":1997,
@@ -1050,12 +1163,15 @@
         "gk_pens_allowed":2.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":1.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Kasper Schmeichel",
         "nationality":"dk DEN",
-        "position":"GK",
         "team":"Leicester City",
         "age":33,
         "birth_year":1986,
@@ -1077,12 +1193,15 @@
         "gk_pens_allowed":4.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Zack Steffen",
         "nationality":"us USA",
-        "position":"GK",
         "team":"Manchester City",
         "age":25,
         "birth_year":1995,
@@ -1104,12 +1223,15 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Jo\u00e3o Virg\u00ednia",
         "nationality":"pt POR",
-        "position":"GK",
         "team":"Everton",
         "age":20,
         "birth_year":1999,
@@ -1131,6 +1253,10 @@
         "gk_pens_allowed":0.0,
         "gk_pens_saved":0.0,
         "gk_pens_missed":0.0,
-        "gk_pens_save_pct":0.0
+        "gk_pens_save_pct":0.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     }
 ]

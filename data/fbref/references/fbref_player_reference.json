@@ -1,4 +1,97 @@
 {
+        
+    "all_in_one": {
+    "endpoint_suffix": "/all/",
+    "metrics": [
+        "player",
+        "nationality",
+        "position",
+        "team",
+        "age",
+        "birth_year",
+        "minutes",
+        "minutes_90s",
+
+        "goals",
+        "assists",
+        "goals_assists",
+        "goals_pens",
+        "xg",
+        "npxg",
+        "xg_assist",
+        "npxg_xg_assist",
+
+        "goals_per90",
+        "assists_per90",
+        "goals_assists_per90",
+        "xg_per90",
+        "npxg_per90",
+        "xg_assist_per90",
+        "npxg_xg_assist_per90",
+
+        "shots",
+        "shots_on_target",
+        "shots_on_target_pct",
+        "shots_per90",
+        "shots_on_target_per90",
+        "average_shot_distance",
+
+        "passes",
+        "passes_completed",
+        "passes_pct",
+        "passes_total_distance",
+        "passes_progressive_distance",
+        "passes_completed_short",
+        "passes_pct_short",
+        "passes_completed_medium",
+        "passes_pct_medium",
+        "passes_completed_long",
+        "passes_pct_long",
+
+        "assisted_shots",
+        "passes_into_final_third",
+        "passes_into_penalty_area",
+        "crosses_into_penalty_area",
+        "progressive_passes",
+
+        "sca",
+        "sca_per90",
+        "gca",
+        "gca_per90",
+
+        "take_ons",
+        "take_ons_won",
+        "take_ons_won_pct",
+
+        "carries",
+        "carries_distance",
+        "carries_progressive_distance",
+        "progressive_carries",
+        "carries_into_final_third",
+        "carries_into_penalty_area",
+
+        "touches",
+        "touches_def_3rd",
+        "touches_mid_3rd",
+        "touches_att_3rd",
+        "touches_att_pen_area",
+
+        "tackles",
+        "tackles_won",
+        "interceptions",
+        "tackles_interceptions",
+        "blocks",
+        "clearances",
+
+        "aerials_won",
+        "aerials_won_pct",
+
+        "fouls",
+        "fouled",
+        "ball_recoveries"
+    ]
+    },
+
     "standard_stats": {
         "endpoint_suffix": "/stats/",
         "metrics": [

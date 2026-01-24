@@ -2,7 +2,6 @@
     {
         "player":"Alisson",
         "nationality":"br BRA",
-        "position":"GK",
         "team":"Liverpool",
         "age":30,
         "birth_year":1992,
@@ -31,12 +30,15 @@
         "gk_crosses_stopped_pct":4.3,
         "gk_def_actions_outside_pen_area":33.0,
         "gk_def_actions_outside_pen_area_per90":1.18,
-        "gk_avg_distance_def_actions":17.7
+        "gk_avg_distance_def_actions":17.7,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Alphonse Areola",
         "nationality":"fr FRA",
-        "position":"GK",
         "team":"West Ham United",
         "age":30,
         "birth_year":1993,
@@ -65,12 +67,15 @@
         "gk_crosses_stopped_pct":5.8,
         "gk_def_actions_outside_pen_area":7.0,
         "gk_def_actions_outside_pen_area_per90":0.23,
-        "gk_avg_distance_def_actions":8.9
+        "gk_avg_distance_def_actions":8.9,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Daniel Bentley",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Wolves",
         "age":30,
         "birth_year":1993,
@@ -99,12 +104,15 @@
         "gk_crosses_stopped_pct":0.0,
         "gk_def_actions_outside_pen_area":3.0,
         "gk_def_actions_outside_pen_area_per90":0.7,
-        "gk_avg_distance_def_actions":13.3
+        "gk_avg_distance_def_actions":13.3,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Martin D\u00fabravka",
         "nationality":"sk SVK",
-        "position":"GK",
         "team":"Newcastle United",
         "age":34,
         "birth_year":1989,
@@ -133,12 +141,15 @@
         "gk_crosses_stopped_pct":6.8,
         "gk_def_actions_outside_pen_area":22.0,
         "gk_def_actions_outside_pen_area_per90":1.0,
-        "gk_avg_distance_def_actions":12.9
+        "gk_avg_distance_def_actions":12.9,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Ederson",
         "nationality":"br BRA",
-        "position":"GK",
         "team":"Manchester City",
         "age":29,
         "birth_year":1993,
@@ -167,12 +178,15 @@
         "gk_crosses_stopped_pct":10.1,
         "gk_def_actions_outside_pen_area":50.0,
         "gk_def_actions_outside_pen_area_per90":1.62,
-        "gk_avg_distance_def_actions":17.3
+        "gk_avg_distance_def_actions":17.3,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"\u0141ukasz Fabia\u0144ski",
         "nationality":"pl POL",
-        "position":"GK",
         "team":"West Ham United",
         "age":38,
         "birth_year":1985,
@@ -201,12 +215,15 @@
         "gk_crosses_stopped_pct":7.0,
         "gk_def_actions_outside_pen_area":1.0,
         "gk_def_actions_outside_pen_area_per90":0.12,
-        "gk_avg_distance_def_actions":7.6
+        "gk_avg_distance_def_actions":7.6,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Mark Flekken",
         "nationality":"nl NED",
-        "position":"GK",
         "team":"Brentford",
         "age":30,
         "birth_year":1993,
@@ -235,12 +252,15 @@
         "gk_crosses_stopped_pct":7.7,
         "gk_def_actions_outside_pen_area":37.0,
         "gk_def_actions_outside_pen_area_per90":1.01,
-        "gk_avg_distance_def_actions":12.6
+        "gk_avg_distance_def_actions":12.6,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Wes Foderingham",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Sheffield United",
         "age":32,
         "birth_year":1991,
@@ -269,12 +289,15 @@
         "gk_crosses_stopped_pct":6.0,
         "gk_def_actions_outside_pen_area":42.0,
         "gk_def_actions_outside_pen_area_per90":1.43,
-        "gk_avg_distance_def_actions":14.7
+        "gk_avg_distance_def_actions":14.7,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Ivo Grbi\u0107",
         "nationality":"hr CRO",
-        "position":"GK",
         "team":"Sheffield United",
         "age":27,
         "birth_year":1996,
@@ -303,12 +326,15 @@
         "gk_crosses_stopped_pct":5.7,
         "gk_def_actions_outside_pen_area":14.0,
         "gk_def_actions_outside_pen_area_per90":1.63,
-        "gk_avg_distance_def_actions":14.4
+        "gk_avg_distance_def_actions":14.4,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Dean Henderson",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Crystal Palace",
         "age":26,
         "birth_year":1997,
@@ -337,12 +363,15 @@
         "gk_crosses_stopped_pct":2.0,
         "gk_def_actions_outside_pen_area":17.0,
         "gk_def_actions_outside_pen_area_per90":0.94,
-        "gk_avg_distance_def_actions":13.8
+        "gk_avg_distance_def_actions":13.8,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Sam Johnstone",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Crystal Palace",
         "age":30,
         "birth_year":1993,
@@ -371,12 +400,15 @@
         "gk_crosses_stopped_pct":7.1,
         "gk_def_actions_outside_pen_area":12.0,
         "gk_def_actions_outside_pen_area_per90":0.6,
-        "gk_avg_distance_def_actions":11.2
+        "gk_avg_distance_def_actions":11.2,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Thomas Kaminski",
         "nationality":"be BEL",
-        "position":"GK",
         "team":"Luton Town",
         "age":30,
         "birth_year":1992,
@@ -405,12 +437,15 @@
         "gk_crosses_stopped_pct":2.9,
         "gk_def_actions_outside_pen_area":76.0,
         "gk_def_actions_outside_pen_area_per90":2.01,
-        "gk_avg_distance_def_actions":20.5
+        "gk_avg_distance_def_actions":20.5,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Loris Karius",
         "nationality":"de GER",
-        "position":"GK",
         "team":"Newcastle United",
         "age":30,
         "birth_year":1993,
@@ -439,12 +474,15 @@
         "gk_crosses_stopped_pct":10.0,
         "gk_def_actions_outside_pen_area":3.0,
         "gk_def_actions_outside_pen_area_per90":3.0,
-        "gk_avg_distance_def_actions":19.5
+        "gk_avg_distance_def_actions":19.5,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Caoimh\u00edn Kelleher",
         "nationality":"ie IRL",
-        "position":"GK",
         "team":"Liverpool",
         "age":24,
         "birth_year":1998,
@@ -473,12 +511,15 @@
         "gk_crosses_stopped_pct":6.5,
         "gk_def_actions_outside_pen_area":13.0,
         "gk_def_actions_outside_pen_area_per90":1.3,
-        "gk_avg_distance_def_actions":17.0
+        "gk_avg_distance_def_actions":17.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Bernd Leno",
         "nationality":"de GER",
-        "position":"GK",
         "team":"Fulham",
         "age":31,
         "birth_year":1992,
@@ -507,12 +548,15 @@
         "gk_crosses_stopped_pct":4.0,
         "gk_def_actions_outside_pen_area":40.0,
         "gk_def_actions_outside_pen_area_per90":1.05,
-        "gk_avg_distance_def_actions":14.2
+        "gk_avg_distance_def_actions":14.2,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Emiliano Mart\u00ednez",
         "nationality":"ar ARG",
-        "position":"GK",
         "team":"Aston Villa",
         "age":30,
         "birth_year":1992,
@@ -541,12 +585,15 @@
         "gk_crosses_stopped_pct":12.1,
         "gk_def_actions_outside_pen_area":69.0,
         "gk_def_actions_outside_pen_area_per90":2.06,
-        "gk_avg_distance_def_actions":17.5
+        "gk_avg_distance_def_actions":17.5,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Remi Matthews",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Crystal Palace",
         "age":29,
         "birth_year":1994,
@@ -575,12 +622,15 @@
         "gk_crosses_stopped_pct":100.0,
         "gk_def_actions_outside_pen_area":0.0,
         "gk_def_actions_outside_pen_area_per90":0.0,
-        "gk_avg_distance_def_actions":3.5
+        "gk_avg_distance_def_actions":3.5,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Arijanet Muric",
         "nationality":"xk KVX",
-        "position":"GK",
         "team":"Burnley",
         "age":24,
         "birth_year":1998,
@@ -609,12 +659,15 @@
         "gk_crosses_stopped_pct":14.0,
         "gk_def_actions_outside_pen_area":31.0,
         "gk_def_actions_outside_pen_area_per90":3.1,
-        "gk_avg_distance_def_actions":17.2
+        "gk_avg_distance_def_actions":17.2,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Neto",
         "nationality":"br BRA",
-        "position":"GK",
         "team":"Bournemouth",
         "age":34,
         "birth_year":1989,
@@ -643,12 +696,15 @@
         "gk_crosses_stopped_pct":6.3,
         "gk_def_actions_outside_pen_area":34.0,
         "gk_def_actions_outside_pen_area_per90":1.06,
-        "gk_avg_distance_def_actions":13.7
+        "gk_avg_distance_def_actions":13.7,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Robin Olsen",
         "nationality":"se SWE",
-        "position":"GK",
         "team":"Aston Villa",
         "age":33,
         "birth_year":1990,
@@ -677,12 +733,15 @@
         "gk_crosses_stopped_pct":13.0,
         "gk_def_actions_outside_pen_area":1.0,
         "gk_def_actions_outside_pen_area_per90":0.22,
-        "gk_avg_distance_def_actions":8.4
+        "gk_avg_distance_def_actions":8.4,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Andr\u00e9 Onana",
         "nationality":"cm CMR",
-        "position":"GK",
         "team":"Manchester Utd",
         "age":27,
         "birth_year":1996,
@@ -711,12 +770,15 @@
         "gk_crosses_stopped_pct":7.0,
         "gk_def_actions_outside_pen_area":37.0,
         "gk_def_actions_outside_pen_area_per90":0.97,
-        "gk_avg_distance_def_actions":12.9
+        "gk_avg_distance_def_actions":12.9,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Stefan Ortega",
         "nationality":"de GER",
-        "position":"GK",
         "team":"Manchester City",
         "age":30,
         "birth_year":1992,
@@ -745,12 +807,15 @@
         "gk_crosses_stopped_pct":9.2,
         "gk_def_actions_outside_pen_area":13.0,
         "gk_def_actions_outside_pen_area_per90":1.84,
-        "gk_avg_distance_def_actions":16.8
+        "gk_avg_distance_def_actions":16.8,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"\u0110or\u0111e Petrovi\u0107",
         "nationality":"rs SRB",
-        "position":"GK",
         "team":"Chelsea",
         "age":23,
         "birth_year":1999,
@@ -779,12 +844,15 @@
         "gk_crosses_stopped_pct":6.4,
         "gk_def_actions_outside_pen_area":20.0,
         "gk_def_actions_outside_pen_area_per90":0.91,
-        "gk_avg_distance_def_actions":12.7
+        "gk_avg_distance_def_actions":12.7,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Jordan Pickford",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Everton",
         "age":29,
         "birth_year":1994,
@@ -813,12 +881,15 @@
         "gk_crosses_stopped_pct":5.3,
         "gk_def_actions_outside_pen_area":54.0,
         "gk_def_actions_outside_pen_area_per90":1.42,
-        "gk_avg_distance_def_actions":15.9
+        "gk_avg_distance_def_actions":15.9,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Nick Pope",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Newcastle United",
         "age":31,
         "birth_year":1992,
@@ -847,12 +918,15 @@
         "gk_crosses_stopped_pct":6.3,
         "gk_def_actions_outside_pen_area":28.0,
         "gk_def_actions_outside_pen_area_per90":1.87,
-        "gk_avg_distance_def_actions":19.0
+        "gk_avg_distance_def_actions":19.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Ionu\u021b Radu",
         "nationality":"ro ROU",
-        "position":"GK",
         "team":"Bournemouth",
         "age":26,
         "birth_year":1997,
@@ -881,12 +955,15 @@
         "gk_crosses_stopped_pct":10.5,
         "gk_def_actions_outside_pen_area":0.0,
         "gk_def_actions_outside_pen_area_per90":0.0,
-        "gk_avg_distance_def_actions":9.6
+        "gk_avg_distance_def_actions":9.6,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Aaron Ramsdale",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Arsenal",
         "age":25,
         "birth_year":1998,
@@ -915,12 +992,15 @@
         "gk_crosses_stopped_pct":17.4,
         "gk_def_actions_outside_pen_area":9.0,
         "gk_def_actions_outside_pen_area_per90":1.5,
-        "gk_avg_distance_def_actions":14.6
+        "gk_avg_distance_def_actions":14.6,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"David Raya",
         "nationality":"es ESP",
-        "position":"GK",
         "team":"Arsenal",
         "age":27,
         "birth_year":1995,
@@ -949,12 +1029,15 @@
         "gk_crosses_stopped_pct":12.2,
         "gk_def_actions_outside_pen_area":50.0,
         "gk_def_actions_outside_pen_area_per90":1.56,
-        "gk_avg_distance_def_actions":17.9
+        "gk_avg_distance_def_actions":17.9,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Jos\u00e9 S\u00e1",
         "nationality":"pt POR",
-        "position":"GK",
         "team":"Wolves",
         "age":30,
         "birth_year":1993,
@@ -983,12 +1066,15 @@
         "gk_crosses_stopped_pct":8.6,
         "gk_def_actions_outside_pen_area":28.0,
         "gk_def_actions_outside_pen_area_per90":0.83,
-        "gk_avg_distance_def_actions":12.6
+        "gk_avg_distance_def_actions":12.6,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Robert S\u00e1nchez",
         "nationality":"es ESP",
-        "position":"GK",
         "team":"Chelsea",
         "age":25,
         "birth_year":1997,
@@ -1017,12 +1103,15 @@
         "gk_crosses_stopped_pct":9.4,
         "gk_def_actions_outside_pen_area":27.0,
         "gk_def_actions_outside_pen_area_per90":1.7,
-        "gk_avg_distance_def_actions":15.8
+        "gk_avg_distance_def_actions":15.8,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Matz Sels",
         "nationality":"be BEL",
-        "position":"GK",
         "team":"Nottingham Forest",
         "age":31,
         "birth_year":1992,
@@ -1051,12 +1140,15 @@
         "gk_crosses_stopped_pct":5.0,
         "gk_def_actions_outside_pen_area":4.0,
         "gk_def_actions_outside_pen_area_per90":0.25,
-        "gk_avg_distance_def_actions":9.4
+        "gk_avg_distance_def_actions":9.4,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"James Shea",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Luton Town",
         "age":32,
         "birth_year":1991,
@@ -1085,12 +1177,15 @@
         "gk_crosses_stopped_pct":0.0,
         "gk_def_actions_outside_pen_area":1.0,
         "gk_def_actions_outside_pen_area_per90":6.0,
-        "gk_avg_distance_def_actions":19.0
+        "gk_avg_distance_def_actions":19.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Jason Steele",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Brighton",
         "age":32,
         "birth_year":1990,
@@ -1119,12 +1214,15 @@
         "gk_crosses_stopped_pct":4.0,
         "gk_def_actions_outside_pen_area":41.0,
         "gk_def_actions_outside_pen_area_per90":2.41,
-        "gk_avg_distance_def_actions":20.6
+        "gk_avg_distance_def_actions":20.6,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Thomas Strakosha",
         "nationality":"al ALB",
-        "position":"GK",
         "team":"Brentford",
         "age":28,
         "birth_year":1995,
@@ -1153,12 +1251,15 @@
         "gk_crosses_stopped_pct":5.4,
         "gk_def_actions_outside_pen_area":1.0,
         "gk_def_actions_outside_pen_area_per90":0.67,
-        "gk_avg_distance_def_actions":10.0
+        "gk_avg_distance_def_actions":10.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"James Trafford",
         "nationality":"eng ENG",
-        "position":"GK",
         "team":"Burnley",
         "age":20,
         "birth_year":2002,
@@ -1187,12 +1288,15 @@
         "gk_crosses_stopped_pct":7.2,
         "gk_def_actions_outside_pen_area":43.0,
         "gk_def_actions_outside_pen_area_per90":1.54,
-        "gk_avg_distance_def_actions":15.0
+        "gk_avg_distance_def_actions":15.0,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Mark Travers",
         "nationality":"ie IRL",
-        "position":"GK",
         "team":"Bournemouth",
         "age":24,
         "birth_year":1999,
@@ -1221,12 +1325,15 @@
         "gk_crosses_stopped_pct":5.0,
         "gk_def_actions_outside_pen_area":3.0,
         "gk_def_actions_outside_pen_area_per90":0.75,
-        "gk_avg_distance_def_actions":14.8
+        "gk_avg_distance_def_actions":14.8,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Matt Turner",
         "nationality":"us USA",
-        "position":"GK",
         "team":"Nottingham Forest",
         "age":29,
         "birth_year":1994,
@@ -1255,12 +1362,15 @@
         "gk_crosses_stopped_pct":10.1,
         "gk_def_actions_outside_pen_area":18.0,
         "gk_def_actions_outside_pen_area_per90":1.06,
-        "gk_avg_distance_def_actions":13.3
+        "gk_avg_distance_def_actions":13.3,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Bart Verbruggen",
         "nationality":"nl NED",
-        "position":"GK",
         "team":"Brighton",
         "age":20,
         "birth_year":2002,
@@ -1289,12 +1399,15 @@
         "gk_crosses_stopped_pct":7.3,
         "gk_def_actions_outside_pen_area":31.0,
         "gk_def_actions_outside_pen_area_per90":1.48,
-        "gk_avg_distance_def_actions":15.8
+        "gk_avg_distance_def_actions":15.8,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Guglielmo Vicario",
         "nationality":"it ITA",
-        "position":"GK",
         "team":"Tottenham Hotspur",
         "age":26,
         "birth_year":1996,
@@ -1323,12 +1436,15 @@
         "gk_crosses_stopped_pct":6.5,
         "gk_def_actions_outside_pen_area":81.0,
         "gk_def_actions_outside_pen_area_per90":2.13,
-        "gk_avg_distance_def_actions":17.1
+        "gk_avg_distance_def_actions":17.1,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     },
     {
         "player":"Odysseas Vlachodimos",
         "nationality":"gr GRE",
-        "position":"GK",
         "team":"Nottingham Forest",
         "age":29,
         "birth_year":1994,
@@ -1357,6 +1473,10 @@
         "gk_crosses_stopped_pct":3.3,
         "gk_def_actions_outside_pen_area":2.0,
         "gk_def_actions_outside_pen_area_per90":0.4,
-        "gk_avg_distance_def_actions":10.3
+        "gk_avg_distance_def_actions":10.3,
+        "position_GK":1,
+        "position_DF":0,
+        "position_MF":0,
+        "position_FW":0
     }
 ]
